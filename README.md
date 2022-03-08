@@ -1,7 +1,7 @@
 # Hallux Valgus Detection
 Hallux Valgus Detection with CNN
 
-This program uses a dataset (collected by my colleague and me) to predict the Hallux Valgus, a common foot deformity. 
+This program uses a dataset (collected by my colleague and me, labeld by kind medical professors of Shahid Beheshti University) to predict the Hallux Valgus, a common foot deformity. 
 
 You can access to the dataset, using this link to my GoogleDrive: https://drive.google.com/drive/folders/1ROlOI9OjOuUoJ-Voru3-nbB7vjsFZtXb?usp=sharing
 
